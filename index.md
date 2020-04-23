@@ -1,23 +1,47 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
+## Breathalyser Game ##
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
-### Related project 1 ###
-*Insert name of project*
+### MQ-3 Arduino Alcohol Sensor ###
 
-*Insert URL to project*
+https://www.instructables.com/id/MQ-3-Arduino-Alcohol-Sensor/
 
-![Image](missingimage.png)
+![Image](P1.jpg)
 
 This project is related to mine because *insert reasons here*.
+
+### AAn alcohol tester with LED lights made with Zerynth ###
+
+https://create.arduino.cc/projecthub/framan/an-alcohol-tester-with-led-lights-made-with-zerynth-fc9d9e?ref=search&ref_id=Alcohol%20sensor&offset=2
+
+![Image](P2.jpg)
+
+### Arduino Alcohol Detector | MQ-3 Sensor ###
+
+https://www.viralsciencecreativity.com/post/arduino-alcohol-detector-mq-3-sensor
+
+![Image](P3.jpg)
+
+### RING PONG ###
+
+https://create.arduino.cc/projecthub/aerodynamics/ring-pong-b91a4f?ref=search&ref_id=RGB%20Ring&offset=0
+
+![Image](P4.jpg)
+
+### Gyroscope Fun with NeoPixel Ring ###
+
+https://create.arduino.cc/projecthub/danionescu/gyroscope-fun-with-neopixel-ring-3a0b84?ref=search&ref_id=RGB%20Ring&offset=9
+
+![Image](P5.jpg)
+
+### NeoPixel Animation with Gestures ###
+
+https://create.arduino.cc/projecthub/danionescu/neopixel-animation-with-gestures-6322bf?ref=search&ref_id=RGB%20Ring&offset=19
+
+![Image](P6.jpg)
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
