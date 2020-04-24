@@ -112,28 +112,39 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ![Image](Final.jpg)
 
-![Image](Design.jpg)
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](Flowchart.png)
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+### Technical Development ###
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+![Image](Connections.jpg)
 
-![Image](missingimage.png)
+![Image](MQ-3_1.jpg)
+
+![Image](MQ-3_2.jpg)
+
+![Image](MQ-3_3.jpg)
+
+![Image](Code.jpg)
+
+
+### Fabrication ###
+
+![Image](Diagram_1.jpg)
+
+![Image](Prot_1.jpg)
+
+![Image](Prot_2.jpg)
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-The next steps for this project are working to get the ring light correctly connected and collaborated into the breathalyser system. After testing to make sure all parts of the system are working correctly, the fabrication of the box design where will begin. Once complete the electronics will temporarily placed within the box to make sure the equipment still work as intended in a alternate setup, once all electronics are working correcly the wires will be permantly intergrated into the design. 
+The next step for this project is to configure the MQ-3 sensor so that it reads a more reasonable amount becasue at this time the sensor is over sensitive. After this I will be working on getting the ring light correctly connected and collaborated into the breathalyser system. After testing to make sure all parts of the system are working correctly, the fabrication of the box design where will begin. Once complete the electronics will temporarily placed within the box to make sure the equipment still work as intended in a alternate setup, once all electronics are working correcly the wires will be permantly intergrated into the design. 
 
 Testing will begin once all electronics are permanently placed in the design,
