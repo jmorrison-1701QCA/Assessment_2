@@ -121,6 +121,8 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ### Technical Development ###
 
+The 
+
 ![Image](Connections.jpg)
 
 ![Image](MQ-3_1.jpg)
@@ -141,7 +143,17 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 ![Image](Prot_1.jpg)
 
 
-## Design process discussion ##
+## Design Process discussion ##
+
+To get this point in development i went through the doubel diamond method.
+
+
+#### Discover ####
+The concept for this projectI had the idea for this project as I was looking through components I would be interested in using to create something.
+
+#### Define ####
+
+#### Develop ####
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
