@@ -115,7 +115,7 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ### Interaction flowchart ###
 
-![Image](Flowchart.png)
+![Image](Flowchart.jpg)
 
 ## Physical experimentation documentation ##
 
@@ -136,9 +136,9 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ![Image](Diagram_1.jpg)
 
-![Image](Prot_1.jpg)
-
 ![Image](Prot_2.jpg)
+
+![Image](Prot_1.jpg)
 
 
 ## Design process discussion ##
