@@ -61,6 +61,11 @@ https://components101.com/sensors/mq-3-alcohol-gas-sensor
 
 This webpage was used to understand how to correctly wire the MQ-3 Sensor, and what each output on the sesnor is connected too.
 
+### Learn Python - Full Course for Beginners [Tutorial] ###
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+This video was used to help learning how to program in python.
 
 ### Using an 24 Bit RGB Neopixel LCD Ring with Arduino ###
 
