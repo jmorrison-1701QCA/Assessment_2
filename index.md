@@ -55,23 +55,18 @@ The Geopixel Animation design project has similar factors to the current project
 
 ## Other research ##
 
-### MQ-3 Alcohol Gas Sensor###
+### MQ-3 Alcohol Gas Sensor ###
 
 https://components101.com/sensors/mq-3-alcohol-gas-sensor
 
 This webpage was used to understand how to correctly wire the MQ-3 Sensor, and what each output on the sesnor is connected too.
 
-### Introduction to Arduino Programming I: Basics ###
-
-https://www.youtube.com/watch?v=nigO-l-RQ3E
-
-This video was used as a introduction into programming using Arduino
 
 ### Using an 24 Bit RGB Neopixel LCD Ring with Arduino ###
 
 https://www.youtube.com/watch?v=ep82zvielUE
 
-This video was used in the process of lighting up the RGB Ring Light as to understadn the fundamental basic of operating the device.
+This video was used in the process of lighting up the RGB Ring Light as to understand the fundamental basics of operating the device.
 
 ## Conceptual progress ##
 
@@ -92,11 +87,27 @@ This would repeat with each player.
 
 ### Design Concept 2 ###
 
-A game that connects 
+A game that connects a movement sensor to a motor that rotates the sensor and when movement is detected a buzzer goes off.
 
-### Final design concept ###
-*This more fully developed concept should includ
-e consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+This game can be played individually or with others.  The players are given a series of tasks (ie. twister, hopscotch, truth or dare etc.) and when the movement sensor is in their sector they all must freeze, no matter what position they are in. If the sensor detects movement the buzzer will sound and the team will either have a disadvantage next round or be out (it is ultimatley up to the players how they wish to use the equipment and what the rules are).
+
+![Image](Con_2.jpg)
+
+### Final Design Concept ###
+
+A drinking game where each player breathes on an alcohol sensor, the sesnor then relays the level to a ring light that lights a certain colour (determined by the B.A.C) this colour determines what the strength of the next drink is.
+
+This is a group game. At each turn the player uses the the Alcohol Sensor, once the level of B.A.C in their breath has been determined the player will drink the required drink and then complete a random activity (this can be determined by the colour or a alternative way). Once their turn is up the next player goes.
+
+The type of alchol each colour represents is determined by the players, but the game is designed that as the B.A.C increases the Alcohol Content in the drink selected will decrease. 
+
+This game will be using a MQ-3 Alcohol Sensor and 24 RGB LED Ring Module.
+
+The game will be played off of a similar layout of a dartboard. This is so that the players can record what drinks each colour is for and for the activity points. This layout will also be a kind of box with a removable back, all the wires for this game will be run through the back of the board, this is due to the fact that this is a drinking game and if alcohol came in contact with the electronics the game would break. The removable back is so that the batteries are easily changed if they go flat.
+
+![Image](Final.jpg)
+
+![Image](Design.jpg)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -118,9 +129,6 @@ Ensure you include comments about the choices you've made along the way.*
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-1. Intergrate Ring Light into device
-2. Testing
-3. Design a prototype that intergrates all components into a small portable game
-4. Testing
-5. Build design
-6. Final Testing
+The next steps for this project are working to get the ring light correctly connected and collaborated into the breathalyser system. After testing to make sure all parts of the system are working correctly, the fabrication of the box design where will begin. Once complete the electronics will temporarily placed within the box to make sure the equipment still work as intended in a alternate setup, once all electronics are working correcly the wires will be permantly intergrated into the design. 
+
+Testing will begin once all electronics are permanently placed in the design,
