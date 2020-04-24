@@ -120,8 +120,10 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 ## Physical experimentation documentation ##
 
 ### Technical Development ###
+'The technical developemnt for this project has only just recently begun due to wait on essential components.
 
 ![Image](Connections.jpg)
+This is how the MQ-3 Alcohol sensor is going to be connected without using a breadboad, as it has been through the testing phases.
 
 ![Image](MQ-3_1.jpg)
 
@@ -129,10 +131,15 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ![Image](MQ-3_3.jpg)
 
+This is how the Alcohol sensor has been connected through the developmnt stages, this is allowing me to fix an errors that occur, so that the entirity of the project has to be restarted.
+
 ![Image](Code.jpg)
 
+The basic code that is required to operate the Alcohol sensor so that when exposed the amount on the microbit increases. This is completed by using the anologue read pin.
 
 ### Fabrication ###
+
+The fabrication for this project has been in development since its conception. It hasn't been altered much from the original design, only twice. Once for the practical manner for protecting the electronics and the other for the aesthtic purposes
 
 ![Image](Diagram_1.jpg)
 
@@ -140,6 +147,7 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ![Image](Prot_1.jpg)
 
+This prototype is built to a scale of 1:4.
 
 ## Design Process discussion ##
 
@@ -169,4 +177,4 @@ A challenge that presented itself was due to the nature of the game involving li
 ## Next steps ##
 The next step for this project is to configure the MQ-3 sensor so that it reads a more reasonable amount becasue at this time the sensor is over sensitive. After this I will be working on getting the ring light correctly connected and collaborated into the breathalyser system. After testing to make sure all parts of the system are working correctly, the fabrication of the box design where will begin. Once complete the electronics will temporarily placed within the box to make sure the equipment still work as intended in a alternate setup, once all electronics are working correcly the wires will be permantly intergrated into the design. 
 
-Testing will begin once all electronics are permanently placed in the design,
+Audience Reaction and Interactions will begin once all electronics are permanently placed in the design,
