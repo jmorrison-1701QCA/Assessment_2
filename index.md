@@ -121,8 +121,6 @@ The game will be played off of a similar layout of a dartboard. This is so that 
 
 ### Technical Development ###
 
-The 
-
 ![Image](Connections.jpg)
 
 ![Image](MQ-3_1.jpg)
@@ -145,16 +143,28 @@ The
 
 ## Design Process discussion ##
 
-To get this point in development i went through the doubel diamond method.
+### Technical Development ###
+
+To get to this point in development I went through the double diamond method.
+
+The initial concept of the idea was created by looking online at multiple types of sensors, and seeing what was available to use. The next step was to experiment in what i belive would work with the MQ-3 sensor and how i wanted to implent into my project. The notion of using a breatlyser in a adult drinking game, was thouhgt of when i thought what fun it would be to use it in a drinking game. This idea was continusly developed and has only just begun evelopment phase of the double diamond.
 
 
-#### Discover ####
-The concept for this projectI had the idea for this project as I was looking through components I would be interested in using to create something.
+#### Challenges Thus far ####
 
-#### Define ####
+Challenges that have presented themselves thus far is having to learn how to understand the MQ-3 tables so that the breathalyser can be callibrated. This process has yet to be completed and is currently in the define phase of learning and understanding the code used to create the callibration using Raspberry Pi. 
 
-#### Develop ####
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+Another Challenge that has been completed was the wiring required to correclty connect the Breathyliser to the micro:Bit. This process reached completion. The method used to reach the outcome was the Double Diamond method also. The Discover phase was looking online at Git Hub and Audino at projects using the MQ-3 Alcohol Sensor, and seeing how they wired their projects together. The Define phase was understanding what each output and input on the MQ-3 was, this was completed by looking at designs of the product and how each version differentiates. The development phase was connecting all the wires and testing to see if this gave the correct reading, this was done by placing a bottle of vodka over the senor and seeing of the number that was presented on the micro:Bit LED's changed. 
+
+The final challenge that has been presented thus far is the connecting of the 24 x RGB Ring Light to the Breathalyser. This task is in the development phase. The Disocover phase was looking at the problem and finding ways that a code can be changed so that instead of the number increasing on the LED screen on the micro:Bit the lights on the Ring change as well. The Define phase was used to cross reference other works on connecting an LED to a micro:Bit as an output.
+
+### Fabrication ###
+
+The fabrication for this project has just entered into the development phase where materials are being bought and assembled. To get to this phase the double diamond method was also used. I had wanted to make something portable and simplistic, as this was a drinking game i hadnt wanted the design to be too complex and also wanted it to have some style features. Originally it was going to be similar to a board game. It was made apparent that this was not appropiate for a game that involved liquids, it was also suggested that the nature of the game would make certain components difficult to remember as the game progressed this changed the external design of the board so that a white board could be incuded so these components could be easily seen and . 
+
+#### Challenges Thus Far ####
+
+A challenge that presented itself was due to the nature of the game involving liquid it was likly that the electronics on the project would get wet and as such the game would be destroyed this was corrected when I went to find ways to keep the electronics out oif the way of the alcohol. I looked at alternative materials and containers that would protect the electronics. In the end inspiraction was taken from a Dart board and the idea of having a woodern box, with all the wiring inside and a detachable back for access to the batteries.
 
 ## Next steps ##
 The next step for this project is to configure the MQ-3 sensor so that it reads a more reasonable amount becasue at this time the sensor is over sensitive. After this I will be working on getting the ring light correctly connected and collaborated into the breathalyser system. After testing to make sure all parts of the system are working correctly, the fabrication of the box design where will begin. Once complete the electronics will temporarily placed within the box to make sure the equipment still work as intended in a alternate setup, once all electronics are working correcly the wires will be permantly intergrated into the design. 
